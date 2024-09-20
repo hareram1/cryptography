@@ -1,3 +1,18 @@
+'''
+#How It Works:
+The script allows you to choose between encryption or decryption:
+
+#Encryption:
+Enter the text you wish to encrypt.
+Provide a numerical key for the shift.
+The program then shifts each letter by the key value and returns the encrypted result.
+
+#Decryption:
+Input the ciphertext and key.
+The program reverses the process by shifting the letters in the opposite direction.
+
+'''
+
 alphabets = "abcdefghijklmnopqrstuvwxyz"
 
 def encrypt(plaintext, key):
