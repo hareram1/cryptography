@@ -1,9 +1,9 @@
 '''
 #How It Works:
-The script allows you to choose between encryption or decryption:
+The script allows us to choose between encryption or decryption:
 
 #Encryption:
-Enter the text you wish to encrypt.
+Enter the text wish to encrypt.
 Provide a numerical key for the shift.
 The program then shifts each letter by the key value and returns the encrypted result.
 
